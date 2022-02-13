@@ -61,6 +61,8 @@ header{
     padding: 10px 24px;
     border-radius: 41px;
     transition: all 0.3s ease;
+    border: 0;
+    font-size: 15px;
 }
 .order-button:hover{
     padding: 10px 30px;
@@ -90,6 +92,7 @@ hr{
 }
 .all-product-title{
     color: whitesmoke;
+    text-align: center;
 }
 .products{
  display: grid;
